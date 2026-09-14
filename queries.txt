@@ -1,0 +1,29 @@
+18 ?- father(mazen, alghala).
+true.
+
+19 ?- father(yosef, joury).
+true.
+
+20 ?- mother(sabah, talal).
+true.
+
+21 ?- mother(aljouhara, joury).
+true.
+
+22 ?- sister(alghala, mohammed).
+true .
+
+23 ?- sister(aljouhara, talal).
+true .
+
+24 ?- brother(mohammed, alghala).
+true .
+
+25 ?- brother(talal, alshahd).
+true .
+
+26 ?- sister(talal, alshahd).
+false.
+
+27 ?- father(yosef, aljouhara).
+false.
